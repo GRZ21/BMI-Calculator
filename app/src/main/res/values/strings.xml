@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="TextHigh">Height:</string>
+    <string name="TextWideth">Wideth:</string>
+    <string name="textview"></string>
+    <string name="thin">Thin</string>
+    <string name="fat">Fat</string>
+    <string name="normal">Normal</string>
+    <string name="button">Calculation</string>
+    <string name="textview4"></string>
+    <string name="hint1">Company：cm</string>
+    <string name="hint2">Company：kg</string>
+    <string name="TextView5">BMI:</string>
+    <string name="textView6">Physical condition：</string>
+</resources>

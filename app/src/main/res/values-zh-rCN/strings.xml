@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI计算器</string>
+    <string name="button">计算你的身体状况</string>
+    <string name="fat">肥胖</string>
+    <string name="normal">正常</string>
+    <string name="thin">消瘦</string>
+    <string name="TextHigh">身高：</string>
+    <string name="TextWideth">体重：</string>
+    <string name="TextView5">BMI:</string>
+    <string name="hint1">单位：cm</string>
+    <string name="hint2">单位：kg</string>
+    <string name="textView6">身体状况：</string>
+</resources>
